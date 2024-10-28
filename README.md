@@ -1,1 +1,1 @@
-## Class Betting Exchange (CBX) is a platform that allows for students to
+##Collegiate Brokerage Exchange (CBX) is a platform that allows students to participate in a unique, performance-based network, enabling them to invest in and predict their peers' academic achievements.
